@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '85b92aedafde6607845138e2728c9ed5d734e8a5',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -350,12 +350,12 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '85b92aedafde6607845138e2728c9ed5d734e8a5',
             'dev_requirement' => false,
         ),
         'laravel/tinker' => array(
@@ -631,8 +631,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0.0',
-                1 => '1.0',
+                0 => '1.0',
+                1 => '1.0.0',
             ),
         ),
         'psr/simple-cache' => array(
@@ -795,12 +795,12 @@
             'dev_requirement' => false,
         ),
         'symfony/css-selector' => array(
-            'pretty_version' => 'v6.2.7',
-            'version' => '6.2.7.0',
+            'pretty_version' => 'v5.4.21',
+            'version' => '5.4.21.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/css-selector',
             'aliases' => array(),
-            'reference' => 'aedf3cb0f5b929ec255d96bbb4909e9932c769e0',
+            'reference' => '95f3c7468db1da8cc360b24fa2a26e7cefcb355d',
             'dev_requirement' => false,
         ),
         'symfony/debug' => array(
